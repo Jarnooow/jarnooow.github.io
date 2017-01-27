@@ -1,0 +1,14 @@
+Package: com.jarnooow.TestTheme
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Jarnooow <jarno1995@gmail.com>
+Depends: Anemone
+Filename: /TestTheme.deb
+Size: 353025
+MD5sum: a736efa219b9851d0e6f91ea4ba67918
+SHA1: adcb07234b3f368dc683dd8504ff7e097947b2ee
+SHA256: bc4f004022cb32e3b50fa0a8c7f1b1421c5efd313700d7e89f0d19fc87d90f44
+Section: Themes
+Description: Test theme for the private repo
+Author: Jarnooow <jarno1995@gmail.com>
+Name: TestTheme
