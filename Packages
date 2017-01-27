@@ -3,10 +3,10 @@ Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Jarnooow <jarno1995@gmail.com>
 Filename: ./debs/com.jarnooow.respringnotifiertest_0.0.1_iphoneos-arm.deb
-Size: 2682
-MD5sum: 4dcef8aff9acfc87fbe688bce091ee7d
-SHA1: 2911cdbc769307d4954691c59d9efeeec3874e74
-SHA256: 6e7d685cdcae43d8d7389d72ba8238a3e324395caf01c1ceba4ada131bcacc01
+Size: 3342
+MD5sum: 46bbd36435eb4fc400bf830ede1343f6
+SHA1: 3ce359e8916822384de4aaad5d3d6138e3202575
+SHA256: a9f2da762b30fd87a13dde157583517c6ffb7156c962cb8ee10883a6f8fff575
 Section: Tweaks
 Description: Test tweak for the private repo
 Author: Jarnooow <jarno1995@gmail.com>
@@ -17,10 +17,10 @@ Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Jarnooow <jarno1995@gmail.com>
 Filename: ./debs/com.jarnooow.testtheme_0.0.1_iphoneos-arm.deb
-Size: 356802
-MD5sum: 604ef47cb0a575269e9fbb25382677b3
-SHA1: 0c21eefaa2a12f8d28435a2db89e8bb5cc45f712
-SHA256: d1ea6791084f290ac64a760b1343a29a7ae5c1dcb11a2cbb19e3a68f290daa43
+Size: 356820
+MD5sum: 78d57253b928429798a0cd07255754ee
+SHA1: b2aaa3f7db478bda6f1af06b6539279289bbf6de
+SHA256: b67d51730db2fa2765150c9f2b453776afde4e77ae4a3ce7ad8f3495d62c1371
 Section: Themes
 Description: Test theme for the private repo
 Author: Jarnooow <jarno1995@gmail.com>
