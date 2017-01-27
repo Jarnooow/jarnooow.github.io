@@ -1,8 +1,0 @@
-Package: com.jarnooow.RespringNotifierTest
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: Jarnooow <jarno1995@gmail.com>
-Section: Tweaks
-Description: Test tweak for the private repo
-Author: Jarnooow <jarno1995@gmail.com>
-Name: RespringNotifierTest
