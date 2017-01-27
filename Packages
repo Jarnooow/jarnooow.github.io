@@ -1,0 +1,13 @@
+Package: com.jarnooow.respringnotifiertest
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Jarnooow <jarno1995@gmail.com>
+Filename: /RespringNotifierTest.deb
+Size: 3573
+MD5sum: e90c1006818658853673ee343a1fac39
+SHA1: b0615a7239d9c52e8dbe033bc30aaa1d15354ad0
+SHA256: 0329f8dd62f5c74f97f4353098adb81e7b3b1377395f25b66f89e0f064de952c
+Section: Tweaks
+Description: Test tweak for the private repo
+Author: Jarnooow <jarno1995@gmail.com>
+Name: RespringNotifierTest
