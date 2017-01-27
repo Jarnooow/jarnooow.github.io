@@ -1,0 +1,10 @@
+Package: com.jarnooow.respringnotifiertest
+Name: TestTheme
+Depends: Anemone
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Jarnooow <jarno1995@gmail.com>
+Section: Themes (SpringBoard)
+Description: Test theme for the private repo
+Author: Jarnooow <jarno1995@gmail.com>
+Name: RespringNotifierTest
