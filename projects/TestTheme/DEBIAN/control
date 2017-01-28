@@ -1,9 +1,0 @@
-Package: com.jarnooow.TestTheme
-Version: 0.0.1
-Depends: com.anemonetheming.anemone
-Architecture: iphoneos-arm
-Maintainer: Jarnooow <jarno1995@gmail.com>
-Section: Themes
-Description: Test theme for the private repo
-Author: Jarnooow <jarno1995@gmail.com>
-Name: TestTheme
