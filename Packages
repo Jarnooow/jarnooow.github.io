@@ -4,14 +4,29 @@ Architecture: iphoneos-arm
 Maintainer: Jarnooow <jarno1995@gmail.com>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/com.jarnooow.mach_0.0.1_iphoneos-arm.deb
-Size: 145010
-MD5sum: 0dc6bee9cfe398325dada7e9f06b99de
-SHA1: 357a9a2476536f3c371037b2e8bd7dec5763cd72
-SHA256: eb69da5d34bb64664ab33aa6db652e7493839b6abdadd5b6fa81047fc0962e36
+Size: 144986
+MD5sum: aa6701c4d2be8ff3783938e00d0de854
+SHA1: abd8d5a6f8c6c0d5ecb39003265fddd1d44ab15a
+SHA256: 69bd973b6bba9aa6dc47f35dd39d8e76c1290f9f85c9b387ebb7633b8d5a01b7
 Section: Themes
 Description: A Classic icon for the Mach_portal app!
 Author: Jarnooow <jarno1995@gmail.com>
 Name: Mach
+
+Package: com.jarnooow.Swredder
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Jarnooow <jarno1995@gmail.com>
+Depends: com.anemonetheming.anemone
+Filename: ./debs/com.jarnooow.swredder_1.0_iphoneos-arm.deb
+Size: 2945612
+MD5sum: 960ee143aa05acf66b27447792ef0160
+SHA1: c769b125c2347b20ad1039e96be83b1104ebb5ba
+SHA256: b573a7228ad53767ef9abd208fc9009b6a26a564479ff0c26eaa1cb6c9ae7322
+Section: Themes
+Description: A theme specifically made for Swredder!
+Author: Jarnooow <jarno1995@gmail.com>
+Name: Swredder
 
 Package: com.jarnooow.TestTheme
 Version: 0.0.2
@@ -19,10 +34,10 @@ Architecture: iphoneos-arm
 Maintainer: Jarnooow <jarno1995@gmail.com>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/com.jarnooow.testtheme_0.0.2_iphoneos-arm.deb
-Size: 357478
-MD5sum: 34464a118e931d858fcd3a7483fbd143
-SHA1: 619f4562e2ff72a9c25747181e9e554ca9075fd1
-SHA256: 64026f0ad2ce809215ae2fefc79928ce3b28b2125d6d1aad28294d7bf8fe540f
+Size: 356746
+MD5sum: 4bf267758ab20f48730dad38b5029c27
+SHA1: 65361dac40bdad5bbcb53a26b4268ac59bdffcda
+SHA256: 45fdd624e161c651844fb0ee7c39b219ce78ec1e996d1b6b8a79943c7ba0e7d0
 Section: Themes
 Description: Test theme for the private repo
 Author: Jarnooow <jarno1995@gmail.com>

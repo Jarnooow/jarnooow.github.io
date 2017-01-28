@@ -1,0 +1,9 @@
+Package: com.jarnooow.Swredder
+Version: 1.0
+Depends: com.anemonetheming.anemone
+Architecture: iphoneos-arm
+Maintainer: Jarnooow <jarno1995@gmail.com>
+Section: Themes
+Description: A theme specifically made for Swredder! 
+Author: Jarnooow <jarno1995@gmail.com>
+Name: Swredder
