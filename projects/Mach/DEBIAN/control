@@ -1,0 +1,9 @@
+Package: com.jarnooow.Mach
+Version: 0.0.1
+Depends: com.anemonetheming.anemone
+Architecture: iphoneos-arm
+Maintainer: Jarnooow <jarno1995@gmail.com>
+Section: Themes
+Description: A Classic icon for the Mach_portal app!
+Author: Jarnooow <jarno1995@gmail.com>
+Name: Mach

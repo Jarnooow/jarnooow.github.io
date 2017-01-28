@@ -1,13 +1,28 @@
+Package: com.jarnooow.Mach
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Jarnooow <jarno1995@gmail.com>
+Depends: com.anemonetheming.anemone
+Filename: ./debs/com.jarnooow.mach_0.0.1_iphoneos-arm.deb
+Size: 145010
+MD5sum: 0dc6bee9cfe398325dada7e9f06b99de
+SHA1: 357a9a2476536f3c371037b2e8bd7dec5763cd72
+SHA256: eb69da5d34bb64664ab33aa6db652e7493839b6abdadd5b6fa81047fc0962e36
+Section: Themes
+Description: A Classic icon for the Mach_portal app!
+Author: Jarnooow <jarno1995@gmail.com>
+Name: Mach
+
 Package: com.jarnooow.TestTheme
 Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: Jarnooow <jarno1995@gmail.com>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/com.jarnooow.testtheme_0.0.2_iphoneos-arm.deb
-Size: 356216
-MD5sum: 9ba8add9ecf2f08221db874accaf5a50
-SHA1: 804cf8d7d5c869ed26266d5203bd7628e79e0133
-SHA256: 24337e8c48a7c92c7dfa4f8e4e184ce24dc78f257ac42c102b5054c785d48b9b
+Size: 357478
+MD5sum: 34464a118e931d858fcd3a7483fbd143
+SHA1: 619f4562e2ff72a9c25747181e9e554ca9075fd1
+SHA256: 64026f0ad2ce809215ae2fefc79928ce3b28b2125d6d1aad28294d7bf8fe540f
 Section: Themes
 Description: Test theme for the private repo
 Author: Jarnooow <jarno1995@gmail.com>
