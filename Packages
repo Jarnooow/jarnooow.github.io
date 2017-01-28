@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: Jarnooow <jarno1995@gmail.com>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/com.jarnooow.testtheme_0.0.2_iphoneos-arm.deb
-Size: 357452
-MD5sum: d943a0c06c62fd15faa3152488956dc3
-SHA1: 2e882dc204e32922aa9b6db923c33d37d6d4165e
-SHA256: 7aef6949df7735ed62fb3979bd390301b3de0337b4f222e47f46f48e7d725a07
+Size: 356216
+MD5sum: 9ba8add9ecf2f08221db874accaf5a50
+SHA1: 804cf8d7d5c869ed26266d5203bd7628e79e0133
+SHA256: 24337e8c48a7c92c7dfa4f8e4e184ce24dc78f257ac42c102b5054c785d48b9b
 Section: Themes
 Description: Test theme for the private repo
 Author: Jarnooow <jarno1995@gmail.com>
