@@ -1,5 +1,5 @@
 Package: com.jarnooow.Swredder
-Version: 2.0
+Version: 2.1
 Depends: com.anemonetheming.anemone
 Architecture: iphoneos-arm
 Maintainer: Jarnooow <jarno1995@gmail.com>
