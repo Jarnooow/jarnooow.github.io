@@ -1,9 +1,9 @@
 Package: com.jarnooow.SwredderBoot
-Version: 1.0
+Version: 1.1
 Depends: com.anemonetheming.anemone
 Architecture: iphoneos-arm
 Maintainer: Jarnooow <jarno1995@gmail.com>
-Section: Bootlogos
+Section: Themes
 Description: A BootLogo specifically made for Swredder! 
 Author: Jarnooow <jarno1995@gmail.com>
 Name: SwredderBoot

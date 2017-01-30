@@ -5,9 +5,9 @@ Maintainer: Jarnooow <jarno1995@gmail.com>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/com.jarnooow.mach_0.0.1_iphoneos-arm.deb
 Size: 143584
-MD5sum: f37ca1a4a526615f7946c1e12b5d7b35
-SHA1: 0b1cba3ee16e6e11f531d1fd16d92e48efabe25a
-SHA256: f7203f19dc009533494aac8b96970cc4874d478f725df3ed1f3b55eb49e683b6
+MD5sum: a62789ea437a5de7ac12cc15640b65b0
+SHA1: 9a22a4cc6168fa4c9df1380dd20cfd7206eb1dac
+SHA256: 15271ef1b12dfdf24dd4e547fbaefef0a34578dbd5e5403508d8665fd3d6d0dc
 Section: Themes
 Description: A Classic icon for the Mach_portal app!
 Author: Jarnooow <jarno1995@gmail.com>
@@ -19,26 +19,26 @@ Architecture: iphoneos-arm
 Maintainer: Jarnooow <jarno1995@gmail.com>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/com.jarnooow.swredder_2.1_iphoneos-arm.deb
-Size: 8982920
-MD5sum: e9aa5e85457b754c53e973b1f2044bc1
-SHA1: dc93e1c1653c5fd50ffa0c0b1a179b6ec103c1f8
-SHA256: b7426226671e73998a13f23f52e3b8a12ab6402b3d17c9fdd3f952ac86f1824d
+Size: 8981934
+MD5sum: 6cd33b7252190eaa241240c447d7621e
+SHA1: 1d1035474dea0ff1da847ca3170d6425b96b7db7
+SHA256: b331283db2894388642c5cf6e76de759445517b044da9792c7592fe4c3024e51
 Section: Themes
 Description: A theme specifically made for Swredder!
 Author: Jarnooow <jarno1995@gmail.com>
 Name: Swredder
 
 Package: com.jarnooow.SwredderBoot
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Jarnooow <jarno1995@gmail.com>
 Depends: com.anemonetheming.anemone
-Filename: ./debs/com.jarnooow.swredderboot_1.0_iphoneos-arm.deb
-Size: 4778
-MD5sum: 0de07e532e17b7a26f0039e58fbfc302
-SHA1: f830860b4e89f09c25d32cfdeb805c86b2413e87
-SHA256: 0237052445a2a5dc0e0625efaed626b2a7c2f8e8e50fec40021f081823e06437
-Section: Bootlogos
+Filename: ./debs/com.jarnooow.swredderboot_1.1_iphoneos-arm.deb
+Size: 3324
+MD5sum: 47185567a0b8f593787c7f9747723aa5
+SHA1: 166c894feddcaacdb92f69561658e4abb72eee4f
+SHA256: ab63c4faa9e95140163965917955afc16df8a2bc1cba45e190365800975b839a
+Section: Themes
 Description: A BootLogo specifically made for Swredder!
 Author: Jarnooow <jarno1995@gmail.com>
 Name: SwredderBoot
@@ -50,9 +50,9 @@ Maintainer: Jarnooow <jarno1995@gmail.com>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/com.jarnooow.testtheme_0.0.2_iphoneos-arm.deb
 Size: 356224
-MD5sum: d63b32aa07e67b2550a00500ac5584a0
-SHA1: d04618bc40afc548a4f212f87a6eddb171760888
-SHA256: a3a844d633467872b1deb9ffe5a9db5671ca05fd55081e8833c86557f6e43747
+MD5sum: 36c4ea53e883b0fae88697842c41611b
+SHA1: ca85e414c3bad968b01044007710fc86cbf73e34
+SHA256: 092b30dd9d1f28e2966f920629c579057d070b3c61eaba634aaafb541dc04b6e
 Section: Themes
 Description: Test theme for the private repo
 Author: Jarnooow <jarno1995@gmail.com>
